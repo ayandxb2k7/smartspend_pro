@@ -46,6 +46,8 @@ Add data visualization using charts Improve categorization using NLP techniques 
 
 Created By
 
-Ayan Khan Computer Science Student BITS Pilani Dubai Campus
+Ayan Khan 
+Computer Science Student
+BITS Pilani Dubai Campus
 
 Email: f20250376@dubai.bits-pilani.ac.in
